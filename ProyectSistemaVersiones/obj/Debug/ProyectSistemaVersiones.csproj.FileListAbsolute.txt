@@ -1,0 +1,131 @@
+C:\Users\adria\OneDrive\TRABAJOS UNIVERSIDAD\NOVENO SEMESTRE\PROGRAMACIÓN AVANZADA\PRIMER ARCIAL\PROYECTO\ProyectSistemaVersiones\ProyectSistemaVersiones\obj\Debug\ProyectSistemaVersiones.Form1.resources
+C:\Users\adria\OneDrive\TRABAJOS UNIVERSIDAD\NOVENO SEMESTRE\PROGRAMACIÓN AVANZADA\PRIMER ARCIAL\PROYECTO\ProyectSistemaVersiones\ProyectSistemaVersiones\obj\Debug\ProyectSistemaVersiones.Properties.Resources.resources
+C:\Users\adria\OneDrive\TRABAJOS UNIVERSIDAD\NOVENO SEMESTRE\PROGRAMACIÓN AVANZADA\PRIMER ARCIAL\PROYECTO\ProyectSistemaVersiones\ProyectSistemaVersiones\obj\Debug\ProyectSistemaVersiones.csproj.GenerateResource.cache
+C:\Users\adria\OneDrive\TRABAJOS UNIVERSIDAD\NOVENO SEMESTRE\PROGRAMACIÓN AVANZADA\PRIMER ARCIAL\PROYECTO\ProyectSistemaVersiones\ProyectSistemaVersiones\obj\Debug\ProyectSistemaVersiones.csproj.CoreCompileInputs.cache
+C:\Users\adria\OneDrive\TRABAJOS UNIVERSIDAD\NOVENO SEMESTRE\PROGRAMACIÓN AVANZADA\PRIMER ARCIAL\PROYECTO\ProyectSistemaVersiones\ProyectSistemaVersiones\bin\Debug\ProyectSistemaVersiones.exe.config
+C:\Users\adria\OneDrive\TRABAJOS UNIVERSIDAD\NOVENO SEMESTRE\PROGRAMACIÓN AVANZADA\PRIMER ARCIAL\PROYECTO\ProyectSistemaVersiones\ProyectSistemaVersiones\bin\Debug\ProyectSistemaVersiones.exe
+C:\Users\adria\OneDrive\TRABAJOS UNIVERSIDAD\NOVENO SEMESTRE\PROGRAMACIÓN AVANZADA\PRIMER ARCIAL\PROYECTO\ProyectSistemaVersiones\ProyectSistemaVersiones\bin\Debug\ProyectSistemaVersiones.pdb
+C:\Users\adria\OneDrive\TRABAJOS UNIVERSIDAD\NOVENO SEMESTRE\PROGRAMACIÓN AVANZADA\PRIMER ARCIAL\PROYECTO\ProyectSistemaVersiones\ProyectSistemaVersiones\obj\Debug\ProyectSistemaVersiones.exe
+C:\Users\adria\OneDrive\TRABAJOS UNIVERSIDAD\NOVENO SEMESTRE\PROGRAMACIÓN AVANZADA\PRIMER ARCIAL\PROYECTO\ProyectSistemaVersiones\ProyectSistemaVersiones\obj\Debug\ProyectSistemaVersiones.pdb
+C:\Users\adria\OneDrive\TRABAJOS UNIVERSIDAD\NOVENO SEMESTRE\PROGRAMACIÓN AVANZADA\PRIMER ARCIAL\PROYECTO\ProyectSistemaVersiones\ProyectSistemaVersiones\obj\Debug\ProyectSistemaVersiones.frmPrincipal.resources
+C:\Users\adria\OneDrive\TRABAJOS UNIVERSIDAD\NOVENO SEMESTRE\PROGRAMACIÓN AVANZADA\PRIMER ARCIAL\PROYECTO\ProyectSistemaVersiones\ProyectSistemaVersiones\obj\Debug\ProyectSistemaVersiones.frmListadoVersiones.resources
+C:\Users\adria\OneDrive\TRABAJOS UNIVERSIDAD\NOVENO SEMESTRE\PROGRAMACIÓN AVANZADA\PRIMER ARCIAL\PROYECTO\ProyectSistemaVersiones\ProyectSistemaVersiones\obj\Debug\ProyectSistemaVersiones.frmRegistroClientes.resources
+C:\Users\adria\OneDrive\TRABAJOS UNIVERSIDAD\NOVENO SEMESTRE\PROGRAMACIÓN AVANZADA\PRIMER ARCIAL\PROYECTO\ProyectSistemaVersiones\ProyectSistemaVersiones\obj\Debug\ProyectSistemaVersiones.frmRegistroSistema.resources
+C:\Users\adria\OneDrive\TRABAJOS UNIVERSIDAD\NOVENO SEMESTRE\PROGRAMACIÓN AVANZADA\PRIMER ARCIAL\PROYECTO\ProyectSistemaVersiones\ProyectSistemaVersiones\obj\Debug\ProyectSistemaVersiones.frmFlash.resources
+C:\Users\adria\OneDrive\TRABAJOS UNIVERSIDAD\NOVENO SEMESTRE\PROGRAMACIÓN AVANZADA\PRIMER ARCIAL\PROYECTO\ProyectSistemaVersiones\ProyectSistemaVersiones\obj\Debug\ProyectSistemaVersiones.frmBusquedaCliente.resources
+C:\Users\adria\OneDrive\TRABAJOS UNIVERSIDAD\NOVENO SEMESTRE\PROGRAMACIÓN AVANZADA\PRIMER ARCIAL\PROYECTO\ProyectSistemaVersiones\ProyectSistemaVersiones\obj\Debug\ProyectSistemaVersiones.frmBusquedaSistema.resources
+C:\Users\adria\OneDrive\TRABAJOS UNIVERSIDAD\NOVENO SEMESTRE\PROGRAMACIÓN AVANZADA\PRIMER ARCIAL\PROYECTO\ProyectSistemaVersiones\ProyectSistemaVersiones\obj\Debug\ProyectSistemaVersiones.frmListadoClientes.resources
+C:\Users\adria\OneDrive\TRABAJOS UNIVERSIDAD\NOVENO SEMESTRE\PROGRAMACIÓN AVANZADA\PRIMER ARCIAL\PROYECTO\ProyectSistemaVersiones\ProyectSistemaVersiones\obj\Debug\ProyectSistemaVersiones.frmListadoSistema.resources
+C:\Users\adria\OneDrive\TRABAJOS UNIVERSIDAD\NOVENO SEMESTRE\PROGRAMACIÓN AVANZADA\PRIMER ARCIAL\PROYECTO\ProyectSistemaVersiones\ProyectSistemaVersiones\obj\Debug\ProyectSistemaVersiones.frmRegistroVersiones.resources
+C:\Users\adria\OneDrive\TRABAJOS UNIVERSIDAD\NOVENO SEMESTRE\PROGRAMACIÓN AVANZADA\PRIMER ARCIAL\PROYECTO\ProyectSistemaVersiones\ProyectSistemaVersiones\obj\Debug\ProyectSistemaVersiones.frmRegistroSoporte.resources
+C:\Users\adria\OneDrive\TRABAJOS UNIVERSIDAD\NOVENO SEMESTRE\PROGRAMACIÓN AVANZADA\PRIMER ARCIAL\PROYECTO\ProyectSistemaVersiones\ProyectSistemaVersiones\obj\Debug\ProyectSistemaVersiones.frmListadoSoporte.resources
+C:\Users\adria\OneDrive\TRABAJOS UNIVERSIDAD\NOVENO SEMESTRE\PROGRAMACIÓN AVANZADA\PRIMER ARCIAL\PROYECTO\ProyectSistemaVersiones\ProyectSistemaVersiones\bin\Debug\DataAccess.dll
+C:\Users\adria\OneDrive\TRABAJOS UNIVERSIDAD\NOVENO SEMESTRE\PROGRAMACIÓN AVANZADA\PRIMER ARCIAL\PROYECTO\ProyectSistemaVersiones\ProyectSistemaVersiones\bin\Debug\DataAccess.pdb
+C:\Users\adria\OneDrive\TRABAJOS UNIVERSIDAD\NOVENO SEMESTRE\PROGRAMACIÓN AVANZADA\PRIMER ARCIAL\PROYECTO\ProyectSistemaVersiones\ProyectSistemaVersiones\obj\Debug\ProyectSistemaVersiones.csproj.CopyComplete
+C:\Users\adria\OneDrive\TRABAJOS UNIVERSIDAD\NOVENO SEMESTRE\PROGRAMACIÓN AVANZADA\PRIMER ARCIAL\PROYECTO\ProyectSistemaVersiones\ProyectSistemaVersiones\obj\Debug\ProyectSistemaVersiones.csprojAssemblyReference.cache
+C:\Users\adria\OneDrive\TRABAJOS UNIVERSIDAD\NOVENO SEMESTRE\PC\Nueva carpeta\ProyectSistemaVersiones\ProyectSistemaVersiones\bin\Debug\ProyectSistemaVersiones.exe.config
+C:\Users\adria\OneDrive\TRABAJOS UNIVERSIDAD\NOVENO SEMESTRE\PC\Nueva carpeta\ProyectSistemaVersiones\ProyectSistemaVersiones\bin\Debug\ProyectSistemaVersiones.exe
+C:\Users\adria\OneDrive\TRABAJOS UNIVERSIDAD\NOVENO SEMESTRE\PC\Nueva carpeta\ProyectSistemaVersiones\ProyectSistemaVersiones\bin\Debug\ProyectSistemaVersiones.pdb
+C:\Users\adria\OneDrive\TRABAJOS UNIVERSIDAD\NOVENO SEMESTRE\PC\Nueva carpeta\ProyectSistemaVersiones\ProyectSistemaVersiones\bin\Debug\DataAccess.dll
+C:\Users\adria\OneDrive\TRABAJOS UNIVERSIDAD\NOVENO SEMESTRE\PC\Nueva carpeta\ProyectSistemaVersiones\ProyectSistemaVersiones\bin\Debug\DataAccess.pdb
+C:\Users\adria\OneDrive\TRABAJOS UNIVERSIDAD\NOVENO SEMESTRE\PC\Nueva carpeta\ProyectSistemaVersiones\ProyectSistemaVersiones\obj\Debug\ProyectSistemaVersiones.Form1.resources
+C:\Users\adria\OneDrive\TRABAJOS UNIVERSIDAD\NOVENO SEMESTRE\PC\Nueva carpeta\ProyectSistemaVersiones\ProyectSistemaVersiones\obj\Debug\ProyectSistemaVersiones.frmBusquedaCliente.resources
+C:\Users\adria\OneDrive\TRABAJOS UNIVERSIDAD\NOVENO SEMESTRE\PC\Nueva carpeta\ProyectSistemaVersiones\ProyectSistemaVersiones\obj\Debug\ProyectSistemaVersiones.frmBusquedaSistema.resources
+C:\Users\adria\OneDrive\TRABAJOS UNIVERSIDAD\NOVENO SEMESTRE\PC\Nueva carpeta\ProyectSistemaVersiones\ProyectSistemaVersiones\obj\Debug\ProyectSistemaVersiones.frmFlash.resources
+C:\Users\adria\OneDrive\TRABAJOS UNIVERSIDAD\NOVENO SEMESTRE\PC\Nueva carpeta\ProyectSistemaVersiones\ProyectSistemaVersiones\obj\Debug\ProyectSistemaVersiones.frmListadoClientes.resources
+C:\Users\adria\OneDrive\TRABAJOS UNIVERSIDAD\NOVENO SEMESTRE\PC\Nueva carpeta\ProyectSistemaVersiones\ProyectSistemaVersiones\obj\Debug\ProyectSistemaVersiones.frmListadoSistema.resources
+C:\Users\adria\OneDrive\TRABAJOS UNIVERSIDAD\NOVENO SEMESTRE\PC\Nueva carpeta\ProyectSistemaVersiones\ProyectSistemaVersiones\obj\Debug\ProyectSistemaVersiones.frmListadoVersiones.resources
+C:\Users\adria\OneDrive\TRABAJOS UNIVERSIDAD\NOVENO SEMESTRE\PC\Nueva carpeta\ProyectSistemaVersiones\ProyectSistemaVersiones\obj\Debug\ProyectSistemaVersiones.frmPrincipal.resources
+C:\Users\adria\OneDrive\TRABAJOS UNIVERSIDAD\NOVENO SEMESTRE\PC\Nueva carpeta\ProyectSistemaVersiones\ProyectSistemaVersiones\obj\Debug\ProyectSistemaVersiones.frmRegistroClientes.resources
+C:\Users\adria\OneDrive\TRABAJOS UNIVERSIDAD\NOVENO SEMESTRE\PC\Nueva carpeta\ProyectSistemaVersiones\ProyectSistemaVersiones\obj\Debug\ProyectSistemaVersiones.frmRegistroSistema.resources
+C:\Users\adria\OneDrive\TRABAJOS UNIVERSIDAD\NOVENO SEMESTRE\PC\Nueva carpeta\ProyectSistemaVersiones\ProyectSistemaVersiones\obj\Debug\ProyectSistemaVersiones.frmRegistroVersiones.resources
+C:\Users\adria\OneDrive\TRABAJOS UNIVERSIDAD\NOVENO SEMESTRE\PC\Nueva carpeta\ProyectSistemaVersiones\ProyectSistemaVersiones\obj\Debug\ProyectSistemaVersiones.frmRegistroSoporte.resources
+C:\Users\adria\OneDrive\TRABAJOS UNIVERSIDAD\NOVENO SEMESTRE\PC\Nueva carpeta\ProyectSistemaVersiones\ProyectSistemaVersiones\obj\Debug\ProyectSistemaVersiones.frmListadoSoporte.resources
+C:\Users\adria\OneDrive\TRABAJOS UNIVERSIDAD\NOVENO SEMESTRE\PC\Nueva carpeta\ProyectSistemaVersiones\ProyectSistemaVersiones\obj\Debug\ProyectSistemaVersiones.Properties.Resources.resources
+C:\Users\adria\OneDrive\TRABAJOS UNIVERSIDAD\NOVENO SEMESTRE\PC\Nueva carpeta\ProyectSistemaVersiones\ProyectSistemaVersiones\obj\Debug\ProyectSistemaVersiones.csproj.GenerateResource.cache
+C:\Users\adria\OneDrive\TRABAJOS UNIVERSIDAD\NOVENO SEMESTRE\PC\Nueva carpeta\ProyectSistemaVersiones\ProyectSistemaVersiones\obj\Debug\ProyectSistemaVersiones.csproj.CoreCompileInputs.cache
+C:\Users\adria\OneDrive\TRABAJOS UNIVERSIDAD\NOVENO SEMESTRE\PC\Nueva carpeta\ProyectSistemaVersiones\ProyectSistemaVersiones\obj\Debug\ProyectSistemaVersiones.csproj.CopyComplete
+C:\Users\adria\OneDrive\TRABAJOS UNIVERSIDAD\NOVENO SEMESTRE\PC\Nueva carpeta\ProyectSistemaVersiones\ProyectSistemaVersiones\obj\Debug\ProyectSistemaVersiones.exe
+C:\Users\adria\OneDrive\TRABAJOS UNIVERSIDAD\NOVENO SEMESTRE\PC\Nueva carpeta\ProyectSistemaVersiones\ProyectSistemaVersiones\obj\Debug\ProyectSistemaVersiones.pdb
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\obj\Debug\ProyectSistemaVersiones.csproj.AssemblyReference.cache
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\obj\Debug\ProyectSistemaVersiones.csproj.SuggestedBindingRedirects.cache
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\obj\Debug\ProyectSistemaVersiones.Form1.resources
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\obj\Debug\ProyectSistemaVersiones.frmBusquedaCliente.resources
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\obj\Debug\ProyectSistemaVersiones.frmBusquedaSistema.resources
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\obj\Debug\ProyectSistemaVersiones.frmBusquedaVersion.resources
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\obj\Debug\ProyectSistemaVersiones.frmFlash.resources
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\obj\Debug\ProyectSistemaVersiones.frmListadoClientes.resources
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\obj\Debug\ProyectSistemaVersiones.frmListadoSistema.resources
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\obj\Debug\ProyectSistemaVersiones.frmListadoVersiones.resources
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\obj\Debug\ProyectSistemaVersiones.frmPrincipal.resources
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\obj\Debug\ProyectSistemaVersiones.frmRegistroClientes.resources
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\obj\Debug\ProyectSistemaVersiones.frmRegistroSistema.resources
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\obj\Debug\ProyectSistemaVersiones.frmRegistroVersiones.resources
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\obj\Debug\ProyectSistemaVersiones.frmRegistroSoporte.resources
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\obj\Debug\ProyectSistemaVersiones.frmListadoSoporte.resources
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\obj\Debug\ProyectSistemaVersiones.Properties.Resources.resources
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\obj\Debug\ProyectSistemaVersiones.csproj.GenerateResource.cache
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\obj\Debug\ProyectSistemaVersiones.csproj.CoreCompileInputs.cache
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\obj\Debug\ProyectSistemaVersiones.exe
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\obj\Debug\ProyectSistemaVersiones.pdb
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\bin\Debug\ProyectSistemaVersiones.exe.config
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\bin\Debug\ProyectSistemaVersiones.exe
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\bin\Debug\ProyectSistemaVersiones.pdb
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\bin\Debug\DataAccess.dll
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\bin\Debug\DataAccess.pdb
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\obj\Debug\ProyectSistemaVersiones.csproj.CopyComplete
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\bin\Debug\EnvDTE.dll
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\bin\Debug\stdole.dll
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\obj\Debug\ProyectSistemaVersiones.Form2.resources
+C:\Users\migue\source\repos\ProyectSistemaVersiones\ProyectSistemaVersiones\obj\Debug\ProyectSistemaVersiones.formReporteSistemas.resources

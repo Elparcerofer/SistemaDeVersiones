@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "67661fd0-a578-4c11-aad4-eb94f4613476": {
+      "ProjectGuid": "67661fd0-a578-4c11-aad4-eb94f4613476",
+      "DisplayName": "ProyectSistemaVersiones",
+      "ColorIndex": 0
+    },
+    "a5683955-c669-4a1d-99b2-34961382ae4d": {
+      "ProjectGuid": "a5683955-c669-4a1d-99b2-34961382ae4d",
+      "DisplayName": "DataAccess",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

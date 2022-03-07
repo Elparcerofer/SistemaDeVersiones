@@ -1,0 +1,17 @@
+C:\Users\adria\OneDrive\TRABAJOS UNIVERSIDAD\NOVENO SEMESTRE\PROGRAMACIÓN AVANZADA\PRIMER ARCIAL\PROYECTO\ProyectSistemaVersiones\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\adria\OneDrive\TRABAJOS UNIVERSIDAD\NOVENO SEMESTRE\PROGRAMACIÓN AVANZADA\PRIMER ARCIAL\PROYECTO\ProyectSistemaVersiones\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\adria\OneDrive\TRABAJOS UNIVERSIDAD\NOVENO SEMESTRE\PROGRAMACIÓN AVANZADA\PRIMER ARCIAL\PROYECTO\ProyectSistemaVersiones\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\adria\OneDrive\TRABAJOS UNIVERSIDAD\NOVENO SEMESTRE\PROGRAMACIÓN AVANZADA\PRIMER ARCIAL\PROYECTO\ProyectSistemaVersiones\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\adria\OneDrive\TRABAJOS UNIVERSIDAD\NOVENO SEMESTRE\PROGRAMACIÓN AVANZADA\PRIMER ARCIAL\PROYECTO\ProyectSistemaVersiones\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\adria\OneDrive\TRABAJOS UNIVERSIDAD\NOVENO SEMESTRE\PROGRAMACIÓN AVANZADA\PRIMER ARCIAL\PROYECTO\ProyectSistemaVersiones\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\adria\OneDrive\TRABAJOS UNIVERSIDAD\NOVENO SEMESTRE\PC\Nueva carpeta\ProyectSistemaVersiones\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\adria\OneDrive\TRABAJOS UNIVERSIDAD\NOVENO SEMESTRE\PC\Nueva carpeta\ProyectSistemaVersiones\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\adria\OneDrive\TRABAJOS UNIVERSIDAD\NOVENO SEMESTRE\PC\Nueva carpeta\ProyectSistemaVersiones\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\adria\OneDrive\TRABAJOS UNIVERSIDAD\NOVENO SEMESTRE\PC\Nueva carpeta\ProyectSistemaVersiones\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\adria\OneDrive\TRABAJOS UNIVERSIDAD\NOVENO SEMESTRE\PC\Nueva carpeta\ProyectSistemaVersiones\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\adria\OneDrive\TRABAJOS UNIVERSIDAD\NOVENO SEMESTRE\PC\Nueva carpeta\ProyectSistemaVersiones\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\migue\source\repos\ProyectSistemaVersiones\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\migue\source\repos\ProyectSistemaVersiones\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\migue\source\repos\ProyectSistemaVersiones\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\migue\source\repos\ProyectSistemaVersiones\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\migue\source\repos\ProyectSistemaVersiones\DataAccess\obj\Debug\DataAccess.pdb
